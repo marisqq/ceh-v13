@@ -4,8 +4,8 @@ Certified Ethical Hacker (CEH) v13 study notes.
 
 ## Contents
 
-- **Modules 1-10**: Personal handwritten notes
-- **Modules 11-20**: AI-assisted summaries (comprehensive, nothing skipped)
+- **Modules 1-12**: Notes from lectures and labs
+- **Modules 13-20**: Detailed summaries with tables, memory hooks, and exam focus
 
 ## Modules
 

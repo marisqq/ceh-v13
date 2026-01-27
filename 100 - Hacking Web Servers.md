@@ -1,10 +1,3 @@
-Got it — **longer sentences, connected explanations, no bullet-only compression**.  
-I’ll **talk you through this section as if I were sitting next to you**, so you don’t have to reread the slides.
-
-Take this slowly and just **listen/read once**. You are not supposed to memorize yet.
-
----
-
 ## Web Server Security Issues — what this section is REALLY saying
 
 The main idea of this whole section is very simple, even though EC-Council uses many words:
@@ -120,12 +113,7 @@ For now, just make sure you **understand these ideas**, not the wording:
 - Administrators and defaults cause most problems
     
 
-Perfect — this is a **very good learning instinct**, and yes:  
-👉 **chapter by chapter**,  
-👉 **longer sentences**,  
-👉 **explanations first**,  
-👉 **memorization definitions at the end**  
-is exactly how we’ll do **Module 13** with confidence and speed.
+
 
 I’ll handle **this Apache section now** so you **do NOT reread the slides**.
 
@@ -346,10 +334,6 @@ They want you to recognize **patterns**.
 
 ## 🔒 DEFINITIONS TO MEMORIZE (THIS GOES AT THE END)
 
-You were absolutely right about this.
-
-Read these once now — we’ll drill them later.
-
 ### Apache Web Server
 
 An open-source HTTP server used to deliver web content over the Internet, capable of serving static and dynamic content through a modular architecture.
@@ -412,13 +396,7 @@ or
 We stay focused, calm, and efficient.
 
 Perfect feedback — that helps a lot 👍  
-Yes, **from now on I’ll always translate diagrams into “request flow stories” in text**, so you can _mentally simulate_ what happens without staring at arrows and boxes.
-
-We’ll continue **chapter by chapter**.  
-This reply covers **IIS Web Server Architecture + IIS Vulnerabilities**, explained **slowly, in sentences**, then ends with **definitions to memorize**.
-
 ---
-
 
 ## Chapter: **IIS Web Server Architecture**
 ----------------------------------------
@@ -746,11 +724,6 @@ Reply with ONE of these:
     
 - **“Next chapter please”**
     
-
-We stay structured and calm — you are absolutely on track.
-
-Perfect — this is **exactly** the kind of material CEH expects you to _recognize and recall_, not improvise.  
-Below is a **CEH-style, exam-optimized breakdown** of the **Nginx Web Server Architecture**, written in **full sentences**, matching **EC-Council wording**, with **nothing skipped**.
 
 ---
 
